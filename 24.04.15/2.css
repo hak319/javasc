@@ -1,0 +1,14 @@
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link li {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-size: large;
+}
+a:hover {
+    color: darkcyan;
+}
